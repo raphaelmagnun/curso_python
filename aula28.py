@@ -1,2 +1,3 @@
-nome = 'Raphael'
-print(nome[3:])  # R
+numero = input("Digite um número: ")
+
+print('FLOAT:', float(numero))
